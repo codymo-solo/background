@@ -1,0 +1,11 @@
+.bg-box {
+  padding: 30px;
+  border-color: rgba(255,255,255, 0.25);
+  background-color: crimson;
+
+  background-repeat: no-repeat;
+  background-image: url('images/desert.jpg');
+  background-size: contain;
+  background-position: center;
+
+}
